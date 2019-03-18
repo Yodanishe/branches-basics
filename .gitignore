@@ -1,9 +1,8 @@
-!.gitignore
 !.clang-format
 !makefile
 #Artfct
 *.o
 *
 #Backup
-.chessviz.c.swp
-chessviz.c~
+.code.c.swp
+code.c~
